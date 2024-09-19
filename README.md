@@ -24,16 +24,17 @@ pylint
 Technology Used in the project :-
 
 We have developed this project using the below technology
-HTML : Page layout has been designed in HTML
-CSS : CSS has been used for all the desigining part
-JavaScript : All the validation task and animations has been developed by JavaScript
-Python : All the business logic has been implemented in Python
-Flask: Project has been developed over the Flask Framework
+1) HTML : Page layout has been designed in HTML
+2) CSS : CSS has been used for all the desigining part
+3) JavaScript : All the validation task and animations has been developed by JavaScript
+4) Python : All the business logic has been implemented in Python
+5) Flask: Project has been developed over the Flask Framework
+
 Supported Operating System :-
-We can configure this project on following operating system.
-Windows : This project can easily be configured on windows operating system. For running this project on Windows system, you will have to install
-Python 3.6.10, PIP, Django.
-Linux : We can run this project also on all versions of Linux operating systemMac : We can also easily configured this project on Mac operating system.
+1) We can configure this project on following operating system.
+2) Windows : This project can easily be configured on windows operating system. For running this project on Windows system, you will have to install
+3) Python 3.6.10, PIP, Django.
+4) Linux : We can run this project also on all versions of Linux operating systemMac : We can also easily configured this project on Mac operating system.
 
 Installation Step : -
 python 3.6.8
