@@ -4,12 +4,12 @@ This project utilizes a Convolutional Neural Network (CNN) model built with the 
 
 Implementation Steps : -
 
-1.Import the libraries and load the dataset
-2.Preprocess the data
-3.Create the model
-4.Train the model
-5.Evaluate the model
-6.Create GUI to predict digits
+1) Import the libraries and load the dataset
+2) Preprocess the data
+3) Create the model
+4) Train the model
+5) Evaluate the model
+6) Create GUI to predict digits
 
 Requirements .txt file :-
 
