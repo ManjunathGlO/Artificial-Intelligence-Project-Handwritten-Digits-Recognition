@@ -40,6 +40,6 @@ Supported Operating System :-
 4) Linux : We can run this project also on all versions of Linux operating systemMac : We can also easily configured this project on Mac operating system.
 
 Installation Step : -
-python 3.6.8
-command 1 - python -m pip install --user -r requirements.txt
-command 2 - python app.py
+- python 3.6.8
+- command 1 - python -m pip install --user -r requirements.txt
+- command 2 - python app.py
